@@ -262,7 +262,7 @@ QHeaderView::section:hover {
 /* TreeView */
 /* Weirdly seems to be the main area where you can see your transfers */
 QTreeView {
-  background-color: #1e2030;
+  background-color: #7287fd;
 }
 
 QTreeView::item {
